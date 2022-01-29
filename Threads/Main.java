@@ -1,3 +1,5 @@
+package Threads;
+
 import Threads.ThreadOne;
 import Threads.ThreadTwo;
 
